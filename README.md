@@ -49,14 +49,11 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 #### PDF(Probability Density Function) for age
 ![PDF(Probability Density Function) for age](./HABER_4.png)
 
-#### PDF(Probability Density Function) for year
+#### PDF(Probability Density Function) for nodes
 ![PDF(Probability Density Function) for year](./HABER_5.png)
 
-#### PDF(Probability Density Function) for nodes
-![PDF(Probability Density Function) for nodes](./HABER_6.png)
-
 #### PDF and CDF for positive_lymph_node
-![PDF and CDF for positive_lymph_node](./HABER_7.png)
+![PDF(Probability Density Function) for nodes](./HABER_6.png)
 
 #### Box Plots
 ![Box Plots](./HABER_6.png)
